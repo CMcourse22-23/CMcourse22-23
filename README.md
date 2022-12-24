@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Claire
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Full Stack Engineering 
