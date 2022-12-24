@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Claire
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Full Stack Engineering 
+- 👋 Hello, I’m Claire
+- 👀 I’m interested in all things coding
+- 🌱 I’m currently studying Full Stack Engineering 
